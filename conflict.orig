@@ -1,0 +1,7 @@
+one
+two
+<<<<<<< HEAD
+threee
+=======
+3
+>>>>>>> refs/remotes/origin/main
